@@ -9,7 +9,7 @@ We test our code on two datasets: CIFAR-10, and CIFAR-100.
 Our code is implemented and tested on PyTorch. Following packages are used:
 ```
 numpy
-pytorch==1.6.0
+torch==1.6.0
 torchvision==0.7.0
 scipy==1.6.0
 ```
